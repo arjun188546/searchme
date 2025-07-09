@@ -6,9 +6,9 @@ Welcome to SearchMe! Ever seen a product you liked – maybe in a photo, on the 
 
 **Just upload an image, and SearchMe will use AI to figure out what the product is and then automatically hunt it down on popular Indian e-commerce sites like Amazon, Flipkart, and Myntra, showing you prices and links.**
 
-**GitHub Repository:** [https://github.com/MuhammedBasith/search-me](https://github.com/MuhammedBasith/search-me) 
 
-**Try it live:** [searchme.basith.me](https://searchme.basith.me)  
+
+
 
 ## 🤔 What Does It Do? (Features)
 
@@ -78,13 +78,7 @@ Want to run SearchMe on your own computer? Follow these steps:
 
 **Steps:**
 
-1.  **Clone the Repository:**
-    ```bash
-    git clone https://github.com/MuhammedBasith/search-me.git
-    cd search-me
-    ```
-
-2.  **Set up the Backend:**
+  **Set up the Backend:**
     ```bash
     cd search-me-backend
     npm install # or yarn install / bun install
@@ -107,7 +101,7 @@ Want to run SearchMe on your own computer? Follow these steps:
     ```
     *Keep this terminal running.*
 
-3.  **Set up the Frontend:**
+  **Set up the Frontend:**
     *Open a **new** terminal window.*
     ```bash
     cd ../search-me-frontend # Navigate back to root, then into frontend
@@ -125,7 +119,7 @@ Want to run SearchMe on your own computer? Follow these steps:
     npm run dev # or yarn dev / bun run dev
     ```
 
-4.  **Access the App:**
+  **Access the App:**
     Open your web browser and navigate to the URL provided by the frontend development server (usually `http://localhost:5173`).
 
 ---
@@ -158,6 +152,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Happy Searching! ✨
 
 
